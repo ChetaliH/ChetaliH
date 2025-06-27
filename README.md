@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chetali-h">
-    <img src="https://komarev.com/ghpvc/?username=chetali-h&style=flat&color=blue" alt="Profile views" />
+  <a href="https://github.com/ChetaliH">
+    <img src="https://komarev.com/ghpvc/?username=ChetaliH&style=flat&color=blue" alt="Profile views" />
   </a>
-  <a href="mailto:chetali@example.com">
+  <a href="mailto:chetalihariramani@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/chetali">
+  <a href="https://www.linkedin.com/in/chetali-hariramani-a04a96225/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" alt="Unreal Engine Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender Logo"/>
 </p>
 
 ---
@@ -52,13 +54,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/chetali">
+  <a href="https://www.linkedin.com/in/chetali-hariramani-a04a96225/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/chetali">
+  <a href="https://x.com/chets_H">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:chetali@example.com">
+  <a href="mailto:chetalihariramani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
