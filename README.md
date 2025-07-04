@@ -1,25 +1,19 @@
-<h1 align="center">Hi, I'm Chetali 👋</h1>
-<p align="center">
-  B.Tech IT · Passionate about Machine Learning, Generative AI & Robotics
-</p>
+<h1 align="center">I write code.</h1>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/ChetaliH">
-    <img src="https://komarev.com/ghpvc/?username=ChetaliH&style=flat&color=blue" alt="Profile views" />
-  </a>
-  <a href="mailto:chetalihariramani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/chetali-hariramani-a04a96225/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChetaliH&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetaliH&layout=compact&hide_border=true&theme=default" width="48%" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+<h3 align="center">Tech Stack</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
@@ -42,25 +36,4 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChetaliH&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChetaliH&layout=compact&hide_border=true&theme=default" width="48%" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/chetali-hariramani-a04a96225/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/chets_H">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:chetalihariramani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
