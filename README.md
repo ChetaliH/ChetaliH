@@ -2,6 +2,25 @@
 
 > Machine Learning • Generative AI • Robotics
 
+## Ask me about
+
+>Android Development
+>
+>AR/VR
+>
+>Cloud Technologies
+>
+
+## Currently Learning
+
+>Deep Learning
+
+## Trying to build
+
+>Transformers from scratch
+>
+>A user friendly Virtual Reality environment developer software
+>
 
 ## GitHub Stats
 
