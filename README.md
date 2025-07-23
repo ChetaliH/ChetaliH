@@ -8,12 +8,14 @@
 >
 >AR/VR
 >
->Cloud Technologies
+>Cloud Computing 
 >
 
 ## Currently Learning
 
 >Deep Learning
+>
+>ROS2 (Robot Operating System 2) 
 
 ## Trying to build
 
